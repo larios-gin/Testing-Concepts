@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="main_activity_title">Main Activity Title</string>
+    <string name="next">Next</string>
+    <string name="username">USER_TO_BE_TYPED</string>
+    <string name="password">PASSWORD_TO_BE_TYPED</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="back">back</string>
+</resources>
